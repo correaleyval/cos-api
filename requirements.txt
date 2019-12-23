@@ -1,0 +1,7 @@
+gunicorn
+flask
+flask-cors
+requests
+markdown
+json
+re
