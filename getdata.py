@@ -39,8 +39,3 @@ def getdata():
         data_json.append(user_dict)
 
     return data_json
-
-# file_data = open("data.json", 'w')
-
-# file_data.write(json_string)
-# file_data.close()
