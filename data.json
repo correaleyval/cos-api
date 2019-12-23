@@ -1,0 +1,309 @@
+[
+    {
+        "name": "fperdigon",
+        "repos": [
+            "kindle_Python_PyQt_env",
+            "ParasiteMarker",
+            "DeepVertebralLabeling_RV",
+            "ECG-BaseLineWander-Removal-Methods",
+            "BacillusMarker",
+            "LVNet",
+            "Extend2VNC",
+            "kindle_PyQT_apps"
+        ]
+    },
+    {
+        "name": "n44ru",
+        "repos": [
+            "mysql-php-save-v1.0"
+        ]
+    },
+    {
+        "name": "daxslab",
+        "repos": [
+            "daxSmail",
+            "web2py-typeahead",
+            "yii2-calendly",
+            "hogarencuba",
+            "yii2-tagged-view",
+            "multicp",
+            "web2py-media-gallery",
+            "web2py-thumbnails",
+            "tinp-core",
+            "spia",
+            "ojs-social-metatags",
+            "escala-geriatrica",
+            "fotorecarga",
+            "yii2-thumbnailer",
+            "mailProc",
+            "web2py-no-captcha-security",
+            "yii2-uploader-behavior",
+            "yii2-contactform-module",
+            "es_wifi_etecsa",
+            "web2py-simple-seo",
+            "yii2-website-module"
+        ]
+    },
+    {
+        "name": "garciaguimeras",
+        "repos": [
+            "VintageReader",
+            "Nauta.Net",
+            "PorLaLivreApp",
+            "DeVil",
+            "jnauta",
+            "TypeScriptTools"
+        ]
+    },
+    {
+        "name": "ateijelo",
+        "repos": [
+            "nauta-cli"
+        ]
+    },
+    {
+        "name": "PhaserEditor2D",
+        "repos": [
+            "PhaserEditor"
+        ]
+    },
+    {
+        "name": "cjamcu",
+        "repos": [
+            "FreeLibrary",
+            "fastcode-ci"
+        ]
+    },
+    {
+        "name": "edelvalle",
+        "repos": [
+            "reactor"
+        ]
+    },
+    {
+        "name": "aleguerra05",
+        "repos": [
+            "metro_trans"
+        ]
+    },
+    {
+        "name": "andaniel05",
+        "repos": [
+            "PyramidalTests",
+            "ObjectCollection",
+            "HierarchyTrait"
+        ]
+    },
+    {
+        "name": "williamamed",
+        "repos": [
+            "Raptor.js"
+        ]
+    },
+    {
+        "name": "jadolg",
+        "repos": [
+            "IoTInternetMonitior",
+            "UCIntlm",
+            "ShakeItOff",
+            "TextMadeWeb",
+            "DockerImageSave",
+            "rocketchat_API"
+        ]
+    },
+    {
+        "name": "JoseVL92",
+        "repos": [
+            "sqlalchemy-connector",
+            "http-requests",
+            "text-miner"
+        ]
+    },
+    {
+        "name": "jmbatistav",
+        "repos": [
+            "sheldon"
+        ]
+    },
+    {
+        "name": "codeadict",
+        "repos": [
+            "lager_logentries",
+            "vmq_cloudwatch_metrics",
+            "quotation_followup",
+            "vernemq_kinesis",
+            "HTTP2COM",
+            "kings-landing"
+        ]
+    },
+    {
+        "name": "pavelmc",
+        "repos": [
+            "multi-probe-swr-meter",
+            "amake",
+            "Si5351mcu",
+            "arduino-arcs",
+            "BMux",
+            "Yatuli",
+            "carrito",
+            "carrito-control",
+            "stepperUnipolar",
+            "FT857d"
+        ]
+    },
+    {
+        "name": "leolopez89",
+        "repos": [
+            "Q-Guide"
+        ]
+    },
+    {
+        "name": "rogertm",
+        "repos": [
+            "twenty-em"
+        ]
+    },
+    {
+        "name": "oneohthree",
+        "repos": [
+            "bootify"
+        ]
+    },
+    {
+        "name": "greenled",
+        "repos": [
+            "portainer-stack-utils"
+        ]
+    },
+    {
+        "name": "alejandrojnm",
+        "repos": [
+            "simple-backup"
+        ]
+    },
+    {
+        "name": "atscub",
+        "repos": [
+            "nauta-cli"
+        ]
+    },
+    {
+        "name": "etorresf",
+        "repos": [
+            "Nawito1906"
+        ]
+    },
+    {
+        "name": "n3omaster",
+        "repos": [
+            "BacheSMS",
+            "NautaClear",
+            "oc_massive_email"
+        ]
+    },
+    {
+        "name": "yceruto",
+        "repos": [
+            "symfony-skeleton-vkernel",
+            "django-ajax"
+        ]
+    },
+    {
+        "name": "Nenirey",
+        "repos": [
+            "LazView",
+            "AWGG"
+        ]
+    },
+    {
+        "name": "rlazom",
+        "repos": [
+            "BankDroid"
+        ]
+    },
+    {
+        "name": "lorinkoz",
+        "repos": [
+            "django-pgschemas",
+            "django-js-choices"
+        ]
+    },
+    {
+        "name": "sasousuke",
+        "repos": [
+            "exclusivo-entrada-plugin"
+        ]
+    },
+    {
+        "name": "videomorph-dev",
+        "repos": [
+            "videomorph"
+        ]
+    },
+    {
+        "name": "lpozo",
+        "repos": [
+            "lubricalc"
+        ]
+    },
+    {
+        "name": "ivangalban",
+        "repos": [
+            "TeamReference"
+        ]
+    },
+    {
+        "name": "GlueApps",
+        "repos": [
+            "GluePHP"
+        ]
+    },
+    {
+        "name": "ktowen",
+        "repos": [
+            "django_partial_date"
+        ]
+    },
+    {
+        "name": "JimScope",
+        "repos": [
+            "PowerM"
+        ]
+    },
+    {
+        "name": "leynier",
+        "repos": [
+            "flask-base"
+        ]
+    },
+    {
+        "name": "nx-desktop",
+        "repos": [
+            "nx-simplemenu-applet"
+        ]
+    },
+    {
+        "name": "stdevPavelmc",
+        "repos": [
+            "mailad"
+        ]
+    },
+    {
+        "name": "k9mail",
+        "repos": [
+            "k-9"
+        ]
+    },
+    {
+        "name": "llamaret",
+        "repos": [
+            "MystiQ"
+        ]
+    },
+    {
+        "name": "apenab",
+        "repos": [
+            "react-hooks-toolbox"
+        ]
+    }
+]
