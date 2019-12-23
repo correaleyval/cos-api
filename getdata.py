@@ -4,11 +4,11 @@ import json
 import requests
 
 def getdata():
-    file = open("lista.md")
-    # file = requests.get('https://raw.githubusercontent.com/cuban-opensourcers/cuban-opensource/master/README.md')
+    # file = open("lista.md")
+    file = requests.get('https://raw.githubusercontent.com/cuban-opensourcers/cuban-opensource/master/README.md')
 
-    body = file.read()
-    # body = file.text
+    # body = file.read()
+    body = file.text
 
     html = markdown.markdown(body, output_format='html')
     links = list(set(re.findall(r'href=[\'"]?([^\'" >]+)', html)))
